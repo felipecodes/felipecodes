@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Felipe Oliveira from Brazil (🇧🇷). I've been working as Front-End Engineer since 2016 and currently I'm working at [BeeTech.Global](https://beetech.global/), you can see more about my work at [felipecodes.com](https://felipecodes.com).
+My name is Felipe Oliveira from Brazil (🇧🇷). I've been working as Front-End Engineer since 2016 and currently I'm working at [Gupy](https://beetech.global/), you can see more about my work at [felipecodes.com](https://felipecodes.com).
 
 In my free time, I like to keep close with my family watching movies (🎞️) and series (📺), to read books (📚) and eventually, I like to keep close with nature with a camping (🏕️).
 
